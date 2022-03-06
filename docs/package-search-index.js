@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"net.andrewcpu"},{"l":"net.andrewcpu.calculation"},{"l":"net.andrewcpu.calculation.functions"},{"l":"net.andrewcpu.exceptions"},{"l":"test"}];updateSearchResults();
